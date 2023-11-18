@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ytCADFsI)
 
+## Johan Ricardo Aguilar Pérez - Conceptos POO
+
 ## **Diferencia entre Clase y Objeto**
 
 Una clase actúa como un "esqueleto" o una forma abstracta que define tanto los atributos como los métodos de un objeto o entidad, especificando la manera en que deben crearse estos objetos. En cambio, un objeto es una instancia específica de esa clase; es decir, es la entidad que posee valores particulares para sus atributos. La clase proporciona una idea "abstracta", mientras que el objeto representa la implementación concreta de esa idea, llevándola a la realidad con valores específicos.
